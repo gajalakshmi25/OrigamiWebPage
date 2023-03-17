@@ -1,2 +1,1 @@
-# OrigamiWebPage
-Web page document
+# origami-website
